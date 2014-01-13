@@ -1,6 +1,5 @@
 body {
 	background-color: #ADADAD;
-	background-image: url("images/background-image.png");
 	background-repeat: repeat-x;
 	margin: 0px;
 	padding: 0px;
@@ -12,4 +11,8 @@ body {
 	background-color: #FFFFFF;
 	height: 1024px;
 	width: 0.85em;
+}
+
+.pagination-centered {
+  text-align: center;
 }
